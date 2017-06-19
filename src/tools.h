@@ -28,6 +28,8 @@ public:
   * A helper method to calculate Jacobians.
   */
   MatrixXd CalculateJacobian(const VectorXd& x_state);
+    
+    double normAngle(const double theta);
 
 };
 
