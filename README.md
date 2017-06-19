@@ -1,6 +1,6 @@
 # Extended Kalman Filter and Sensor Fusion for tracking LiDAR and radar measurements
 
-![result](img_result/Result with Radar and Laser.png)
+![result](img_result/Result%20with%20Radar%20and%20Laser.png)
 
 Simple implementation in C++ of sensor fusion with an Extended Kalmar Filter in order to track a moving object with LiDAR and Radar sensors at the same time.
 
